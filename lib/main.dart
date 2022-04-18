@@ -1,5 +1,5 @@
-import 'package:custom_launcher/source/my_app.dart';
 import 'package:flutter/material.dart';
+import 'source/launcher.dart';
 
 void main() => runApp( MyApp());
 

@@ -1,4 +1,4 @@
-# custom_launcher - Made in Flutter v2.8.1
+# FAITH Launcher - Made in Flutter v2.8.1
 
 A new Flutter project.
 
