@@ -1,5 +1,6 @@
-import 'package:flutter/material.dart';
+import 'dart:async';
 import 'source/launcher.dart';
 
-void main() => runApp( MyApp());
-
+Future<void> main() async {
+  await myApp();
+}
